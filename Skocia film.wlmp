@@ -253,7 +253,7 @@
     <MediaItem id="233" filePath="C:\Skocia\DSC02973.JPG" arWidth="256" arHeight="144" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="234" filePath="C:\Skocia\DSC02872.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="235" filePath="C:\Skocia\DSC02925.JPG" arWidth="256" arHeight="125" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="236" filePath="C:\Skocia\DSC03245.JPG" arWidth="1280" arHeight="721" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="236" filePath="C:\Skocia\DSC03245.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="237" filePath="C:\Skocia\DSC02876.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="238" filePath="C:\Skocia\DSC02877.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="239" filePath="C:\Skocia\MAH03113.MP4" arWidth="1920" arHeight="1080" duration="92.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
@@ -300,19 +300,23 @@
     <MediaItem id="283" filePath="C:\Skocia\DSC02995.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="284" filePath="C:\Skocia\Linlithgow5_5.jpg" arWidth="1599" arHeight="900" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="285" filePath="C:\Skocia\DSC02997.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="286" filePath="C:\Skocia\DSC03121.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="286" filePath="C:\Skocia\DSC03121.JPG" arWidth="721" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="287" filePath="C:\Skocia\Linlithgow4_3.jpg" arWidth="804" arHeight="452" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="288" filePath="C:\Skocia\DSC03000.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="289" filePath="C:\Skocia\DSC03123.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="290" filePath="C:\Skocia\MAH03002.MP4" arWidth="1920" arHeight="1080" duration="19.800000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="291" filePath="C:\Skocia\MAH03124.MP4" arWidth="1920" arHeight="1080" duration="35.159999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="292" filePath="C:\Skocia\MAH03125.MP4" arWidth="1920" arHeight="1080" duration="19.319959999999998" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="293" filePath="C:\Skocia\Rosslyn2.jpg" arWidth="1440" arHeight="1090" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="294" filePath="C:\Skocia\DSC03006.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="295" filePath="C:\Skocia\DSC03007.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="296" filePath="C:\Skocia\DSC03127.JPG" arWidth="721" arHeight="1280" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
-    <MediaItem id="297" filePath="C:\Skocia\DSC03128.JPG" arWidth="1280" arHeight="850" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="296" filePath="C:\Skocia\DSC03127.JPG" arWidth="2056" arHeight="3648" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="297" filePath="C:\Skocia\DSC03128.JPG" arWidth="2779" arHeight="1845" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="298" filePath="C:\Skocia\MAH03129.MP4" arWidth="1920" arHeight="1080" duration="57.240000000000002" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="299" filePath="C:\Skocia\Rosslyn3.jpg" arWidth="768" arHeight="1024" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="300" filePath="C:\Skocia\MAH03012.MP4" arWidth="1920" arHeight="1080" duration="27.960000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="301" filePath="C:\Skocia\MAH03131.MP4" arWidth="1920" arHeight="1080" duration="119.64" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="302" filePath="C:\Skocia\Rosslyn4.jpg" arWidth="3648" arHeight="2736" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="303" filePath="C:\Skocia\DSC03247.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="304" filePath="C:\Skocia\DSC03016.JPG" arWidth="3363" arHeight="1764" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="305" filePath="C:\Skocia\DSC03017.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
@@ -327,17 +331,23 @@
     <MediaItem id="314" filePath="C:\Skocia\DSC03026.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="315" filePath="C:\Skocia\DSC03027.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="317" filePath="C:\Skocia\MAH03029.MP4" arWidth="1920" arHeight="1080" duration="24.120000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="318" filePath="C:\Skocia\Rosslyn6.jpg" arWidth="750" arHeight="1000" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="319" filePath="C:\Skocia\MAH03031.MP4" arWidth="1920" arHeight="1080" duration="32.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="320" filePath="C:\Skocia\MAH03032.MP4" arWidth="1920" arHeight="1080" duration="14.52" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="321" filePath="C:\Skocia\MAH03139.MP4" arWidth="1920" arHeight="1080" duration="29.879999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="322" filePath="C:\Skocia\DSC03034.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="323" filePath="C:\Skocia\Rosslyn7.jpg" arWidth="800" arHeight="946" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="324" filePath="C:\Skocia\MAH03036.MP4" arWidth="1920" arHeight="1080" duration="27.960000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="325" filePath="C:\Skocia\DSC03037.JPG" arWidth="3238" arHeight="1924" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="326" filePath="C:\Skocia\Rosslyn8.jpg" arWidth="2008" arHeight="1749" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="328" filePath="C:\Skocia\DSC03040.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
+    <MediaItem id="329" filePath="C:\Skocia\Rosslyn9_2.jpg" arWidth="1045" arHeight="588" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="330" filePath="C:\Skocia\DSC03144.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="331" filePath="C:\Skocia\MAH03145.MP4" arWidth="1920" arHeight="1080" duration="27.48" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="332" filePath="C:\Skocia\MAH03244.MP4" arWidth="1920" arHeight="1080" duration="56.280000000000001" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="333" filePath="C:\Skocia\MAH03046.MP4" arWidth="1920" arHeight="1080" duration="25.559999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
     <MediaItem id="334" filePath="C:\Skocia\MAH03146.MP4" arWidth="1920" arHeight="1080" duration="78.359999999999999" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
+    <MediaItem id="335" filePath="C:\Skocia\Rosslyn10.jpg" arWidth="672" arHeight="542" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="336" filePath="C:\Skocia\DSC03049.JPG" arWidth="3648" arHeight="2056" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="340" filePath="C:\Skocia\DSC03053.JPG" arWidth="256" arHeight="144" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
     <MediaItem id="342" filePath="C:\Skocia\MAH03147.MP4" arWidth="1920" arHeight="1080" duration="59.159999999999997" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="1" />
@@ -385,15 +395,6 @@
     <MediaItem id="411" filePath="C:\Skocia\Rosslyn.jpg" arWidth="1084" arHeight="700" duration="0" songTitle="" songArtist="" songAlbum="" songCopyrightUrl="" songArtistUrl="" songAudioFileUrl="" stabilizationMode="0" mediaItemType="2" />
   </MediaItems>
   <Extents>
-    <VideoClip extentID="523" gapBefore="0" mediaItemID="384" inTime="95.331834533333222" outTime="110.69850120000001" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
     <VideoClip extentID="5" gapBefore="0" mediaItemID="1" inTime="0" outTime="2.8999999999999999" speed="1" stabilizationMode="0">
       <Effects>
         <ShaderEffect effectTemplateID="FadeOutToBlackEffectTemplate">
@@ -577,15 +578,6 @@
       </BoundProperties>
     </VideoClip>
     <VideoClip extentID="21" gapBefore="0" mediaItemID="19" inTime="20.699999999999932" outTime="26.879999999999999" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="543" gapBefore="0" mediaItemID="391" inTime="50.266666666666879" outTime="59.833333333333485" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -2796,15 +2788,6 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="275" gapBefore="0" mediaItemID="408" inTime="143.72666666666646" outTime="158.6266666666661" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="3" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
     <ImageClip extentID="276" gapBefore="0" mediaItemID="241" duration="3">
       <Effects />
       <Transitions />
@@ -3068,15 +3051,6 @@
       </BoundProperties>
     </ImageClip>
     <VideoClip extentID="299" gapBefore="0" mediaItemID="272" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="300" gapBefore="0" mediaItemID="384" inTime="232.27183453333191" outTime="243.49850119999883" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3425,7 +3399,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="349" gapBefore="0" mediaItemID="194" duration="7">
+    <ImageClip extentID="349" gapBefore="0" mediaItemID="194" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3492,7 +3466,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="359" gapBefore="0" mediaItemID="236" duration="7">
+    <ImageClip extentID="359" gapBefore="0" mediaItemID="236" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3513,7 +3487,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="363" gapBefore="0" mediaItemID="303" duration="7">
+    <ImageClip extentID="363" gapBefore="0" mediaItemID="303" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3547,7 +3521,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <ImageClip extentID="367" gapBefore="0" mediaItemID="308" duration="7">
+    <ImageClip extentID="367" gapBefore="0" mediaItemID="308" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3561,7 +3535,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <ImageClip extentID="369" gapBefore="0" mediaItemID="395" duration="7">
+    <ImageClip extentID="369" gapBefore="0" mediaItemID="395" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3585,13 +3559,6 @@
       </BoundProperties>
     </ImageClip>
     <ImageClip extentID="374" gapBefore="0" mediaItemID="328" duration="3">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-      </BoundProperties>
-    </ImageClip>
-    <ImageClip extentID="377" gapBefore="0" mediaItemID="244" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3662,16 +3629,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="388" gapBefore="0" mediaItemID="407" inTime="0" outTime="24.666666666666515" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <VideoClip extentID="390" gapBefore="0" mediaItemID="409" inTime="0" outTime="0" speed="1" stabilizationMode="0">
+    <VideoClip extentID="388" gapBefore="0" mediaItemID="407" inTime="0" outTime="0.34000000000014552" speed="0.25" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3715,16 +3673,7 @@
         <BoundPropertyInt Name="rotateStepNinety" Value="0" />
       </BoundProperties>
     </ImageClip>
-    <VideoClip extentID="396" gapBefore="0" mediaItemID="410" inTime="0" outTime="0" speed="1" stabilizationMode="0">
-      <Effects />
-      <Transitions />
-      <BoundProperties>
-        <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
-        <BoundPropertyFloat Name="Volume" Value="1" />
-      </BoundProperties>
-    </VideoClip>
-    <ImageClip extentID="397" gapBefore="0" mediaItemID="411" duration="7">
+    <ImageClip extentID="397" gapBefore="0" mediaItemID="411" duration="3">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -3917,12 +3866,19 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="428" gapBefore="0" mediaItemID="408" inTime="53.999999999999545" outTime="82.11333333333323" speed="1" stabilizationMode="0">
+    <ImageClip extentID="425" gapBefore="0" mediaItemID="287" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <VideoClip extentID="429" gapBefore="0" mediaItemID="407" inTime="4.8866666666654055" outTime="24.666666666666515" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
         <BoundPropertyBool Name="Mute" Value="false" />
-        <BoundPropertyInt Name="rotateStepNinety" Value="3" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
@@ -3935,7 +3891,34 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <VideoClip extentID="432" gapBefore="0" mediaItemID="408" inTime="61.399999999997817" outTime="82.11333333333323" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="3" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <VideoClip extentID="434" gapBefore="0" mediaItemID="409" inTime="21.913333333329319" outTime="38.093333333325063" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
     <VideoClip extentID="435" gapBefore="0" mediaItemID="182" inTime="37.059999799999787" outTime="44.226666466666302" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <VideoClip extentID="436" gapBefore="0" mediaItemID="410" inTime="3.2186786333295458" outTime="17.537357266658546" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -4006,6 +3989,22 @@
         <BoundPropertyFloat Name="transparency" Value="1" />
       </BoundProperties>
     </TitleClip>
+    <VideoClip extentID="442" gapBefore="0" mediaItemID="409" inTime="64.593333333325063" outTime="95.526666666658457" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <ImageClip extentID="443" gapBefore="0" mediaItemID="293" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="444" gapBefore="0" mediaItemID="258" inTime="5.7799999999997453" outTime="0" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -4015,6 +4014,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="445" gapBefore="0" mediaItemID="299" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="446" gapBefore="0" mediaItemID="273" inTime="6.6933333333331575" outTime="18.7199999999998" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -4024,6 +4030,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="447" gapBefore="0" mediaItemID="302" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="448" gapBefore="0" mediaItemID="275" inTime="6.3333333333334849" outTime="14.066666666666606" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -4033,6 +4046,13 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="450" gapBefore="0" mediaItemID="318" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="451" gapBefore="0" mediaItemID="280" inTime="21.066666666667061" outTime="0" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -4042,6 +4062,20 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
+    <ImageClip extentID="452" gapBefore="0" mediaItemID="323" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <ImageClip extentID="455" gapBefore="0" mediaItemID="329" duration="3">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
     <VideoClip extentID="456" gapBefore="0" mediaItemID="387" inTime="0" outTime="8.925305166666476" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
@@ -4060,7 +4094,7 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="464" gapBefore="0" mediaItemID="298" inTime="31.700000000000728" outTime="46.233333333334031" speed="1" stabilizationMode="0">
+    <VideoClip extentID="459" gapBefore="0" mediaItemID="332" inTime="8.9666663666666864" outTime="26.099999399999888" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -4069,7 +4103,32 @@
         <BoundPropertyFloat Name="Volume" Value="1" />
       </BoundProperties>
     </VideoClip>
-    <VideoClip extentID="468" gapBefore="0" mediaItemID="301" inTime="1.7333333333335759" outTime="81.800000000000637" speed="1" stabilizationMode="0">
+    <VideoClip extentID="464" gapBefore="0" mediaItemID="298" inTime="31.700000000000728" outTime="40.233333033333565" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <ImageClip extentID="466" gapBefore="0" mediaItemID="335" duration="7">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+      </BoundProperties>
+    </ImageClip>
+    <VideoClip extentID="470" gapBefore="0" mediaItemID="301" inTime="21.200000000000273" outTime="72.400000000000091" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <VideoClip extentID="473" gapBefore="0" mediaItemID="384" inTime="98.742583933333663" outTime="110.69850120000001" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -4079,6 +4138,15 @@
       </BoundProperties>
     </VideoClip>
     <VideoClip extentID="474" gapBefore="0" mediaItemID="321" inTime="7.566666666666606" outTime="0" speed="1" stabilizationMode="0">
+      <Effects />
+      <Transitions />
+      <BoundProperties>
+        <BoundPropertyBool Name="Mute" Value="false" />
+        <BoundPropertyInt Name="rotateStepNinety" Value="0" />
+        <BoundPropertyFloat Name="Volume" Value="1" />
+      </BoundProperties>
+    </VideoClip>
+    <VideoClip extentID="475" gapBefore="0" mediaItemID="391" inTime="50.654832133334367" outTime="59.833333333333485" speed="1" stabilizationMode="0">
       <Effects />
       <Transitions />
       <BoundProperties>
@@ -4624,7 +4692,16 @@
         <ExtentRef id="346" />
         <ExtentRef id="347" />
         <ExtentRef id="464" />
-        <ExtentRef id="468" />
+        <ExtentRef id="470" />
+        <ExtentRef id="496" />
+        <ExtentRef id="284" />
+        <ExtentRef id="482" />
+        <ExtentRef id="484" />
+        <ExtentRef id="473" />
+        <ExtentRef id="491" />
+        <ExtentRef id="494" />
+        <ExtentRef id="545" />
+        <ExtentRef id="475" />
         <ExtentRef id="387" />
         <ExtentRef id="476" />
         <ExtentRef id="401" />
@@ -4632,16 +4709,6 @@
         <ExtentRef id="405" />
         <ExtentRef id="479" />
         <ExtentRef id="418" />
-        <ExtentRef id="496" />
-        <ExtentRef id="284" />
-        <ExtentRef id="300" />
-        <ExtentRef id="482" />
-        <ExtentRef id="484" />
-        <ExtentRef id="523" />
-        <ExtentRef id="491" />
-        <ExtentRef id="494" />
-        <ExtentRef id="545" />
-        <ExtentRef id="543" />
         <ExtentRef id="498" />
         <ExtentRef id="500" />
         <ExtentRef id="502" />
@@ -4656,12 +4723,21 @@
         <ExtentRef id="547" />
         <ExtentRef id="337" />
         <ExtentRef id="343" />
+        <ExtentRef id="425" />
+        <ExtentRef id="369" />
         <ExtentRef id="349" />
+        <ExtentRef id="459" />
         <ExtentRef id="359" />
         <ExtentRef id="363" />
         <ExtentRef id="367" />
-        <ExtentRef id="369" />
-        <ExtentRef id="377" />
+        <ExtentRef id="455" />
+        <ExtentRef id="445" />
+        <ExtentRef id="466" />
+        <ExtentRef id="447" />
+        <ExtentRef id="452" />
+        <ExtentRef id="443" />
+        <ExtentRef id="397" />
+        <ExtentRef id="450" />
         <ExtentRef id="399" />
         <ExtentRef id="408" />
         <ExtentRef id="384" />
@@ -4669,16 +4745,16 @@
         <ExtentRef id="383" />
         <ExtentRef id="88" />
         <ExtentRef id="388" />
-        <ExtentRef id="428" />
+        <ExtentRef id="429" />
+        <ExtentRef id="432" />
         <ExtentRef id="322" />
         <ExtentRef id="409" />
         <ExtentRef id="327" />
-        <ExtentRef id="275" />
         <ExtentRef id="289" />
         <ExtentRef id="320" />
-        <ExtentRef id="390" />
-        <ExtentRef id="396" />
-        <ExtentRef id="397" />
+        <ExtentRef id="434" />
+        <ExtentRef id="442" />
+        <ExtentRef id="436" />
       </ExtentRefs>
     </ExtentSelector>
     <ExtentSelector extentID="2" gapBefore="0" primaryTrack="false">
